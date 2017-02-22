@@ -1,0 +1,6 @@
+package: github.com/windperson/zin
+import:
+- package: github.com/Sirupsen/logrus
+- package: github.com/julienschmidt/httprouter
+testImport:
+- package: github.com/windperson/zin

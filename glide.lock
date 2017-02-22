@@ -1,0 +1,14 @@
+hash: 54deb1068bd6093d836d56885aab3982a4fdabcad9dfc5d9e184bfefde73b9d4
+updated: 2017-02-21T18:27:01.1297229+08:00
+imports:
+- name: github.com/julienschmidt/httprouter
+  version: 8c199fb6259ffc1af525cc3ad52ee60ba8359669
+- name: github.com/Sirupsen/logrus
+  version: c078b1e43f58d563c74cebe63c85789e76ddb627
+- name: golang.org/x/sys
+  version: 8f0908ab3b2457e2e15403d3697c9ef5cb4b57a9
+  subpackages:
+  - unix
+testImports:
+- name: github.com/rayark/zin
+  version: 67943e0bc4c578b20d1d850e6ef72a03c13a7620
